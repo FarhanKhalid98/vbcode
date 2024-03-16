@@ -1,0 +1,69 @@
+Line 57: Class JeweledBut.JeweledButton of control BtnClose was not a loaded control class.
+Line 83: Class JeweledBut.JeweledButton of control BtnPreview was not a loaded control class.
+Line 108: Class JeweledBut.JeweledButton of control BtnPrint was not a loaded control class.
+Line 134: Class JeweledBut.JeweledButton of control BtnVendor was not a loaded control class.
+Line 162: Class SITextBox.Txt of control TxtVendorID was not a loaded control class.
+Line 184: Class SITextBox.Txt of control TxtVendorName was not a loaded control class.
+Line 205: Class JeweledBut.JeweledButton of control BtnZone was not a loaded control class.
+Line 231: Class JeweledBut.JeweledButton of control BtnSector was not a loaded control class.
+Line 64: The property name _ExtentX in BtnClose is invalid.
+Line 65: The property name _ExtentY in BtnClose is invalid.
+Line 66: The property name TX in BtnClose is invalid.
+Line 67: The property name ENAB in BtnClose is invalid.
+Line 77: The property name FOCUSR in BtnClose is invalid.
+Line 78: The property name MPTR in BtnClose is invalid.
+Line 79: The property name MICON in BtnClose is invalid.
+Line 80: The property name BC in BtnClose is invalid.
+Line 81: The property name FC in BtnClose is invalid.
+Line 89: The property name _ExtentX in BtnPreview is invalid.
+Line 90: The property name _ExtentY in BtnPreview is invalid.
+Line 91: The property name TX in BtnPreview is invalid.
+Line 92: The property name ENAB in BtnPreview is invalid.
+Line 102: The property name FOCUSR in BtnPreview is invalid.
+Line 103: The property name MPTR in BtnPreview is invalid.
+Line 104: The property name MICON in BtnPreview is invalid.
+Line 105: The property name BC in BtnPreview is invalid.
+Line 106: The property name FC in BtnPreview is invalid.
+Line 115: The property name _ExtentX in BtnPrint is invalid.
+Line 116: The property name _ExtentY in BtnPrint is invalid.
+Line 117: The property name TX in BtnPrint is invalid.
+Line 118: The property name ENAB in BtnPrint is invalid.
+Line 128: The property name FOCUSR in BtnPrint is invalid.
+Line 129: The property name MPTR in BtnPrint is invalid.
+Line 130: The property name MICON in BtnPrint is invalid.
+Line 131: The property name BC in BtnPrint is invalid.
+Line 132: The property name FC in BtnPrint is invalid.
+Line 143: The property name _ExtentX in BtnVendor is invalid.
+Line 144: The property name _ExtentY in BtnVendor is invalid.
+Line 145: The property name TX in BtnVendor is invalid.
+Line 146: The property name ENAB in BtnVendor is invalid.
+Line 156: The property name FOCUSR in BtnVendor is invalid.
+Line 157: The property name MPTR in BtnVendor is invalid.
+Line 158: The property name MICON in BtnVendor is invalid.
+Line 159: The property name BC in BtnVendor is invalid.
+Line 160: The property name FC in BtnVendor is invalid.
+Line 168: The property name _ExtentX in TxtVendorID is invalid.
+Line 169: The property name _ExtentY in TxtVendorID is invalid.
+Line 171: The property name MaxLength in TxtVendorID is invalid.
+Line 181: The property name Masked in TxtVendorID is invalid.
+Line 182: The property name IntegralPoint in TxtVendorID is invalid.
+Line 191: The property name _ExtentX in TxtVendorName is invalid.
+Line 192: The property name _ExtentY in TxtVendorName is invalid.
+Line 212: The property name _ExtentX in BtnZone is invalid.
+Line 213: The property name _ExtentY in BtnZone is invalid.
+Line 214: The property name TX in BtnZone is invalid.
+Line 215: The property name ENAB in BtnZone is invalid.
+Line 225: The property name FOCUSR in BtnZone is invalid.
+Line 226: The property name MPTR in BtnZone is invalid.
+Line 227: The property name MICON in BtnZone is invalid.
+Line 228: The property name BC in BtnZone is invalid.
+Line 229: The property name FC in BtnZone is invalid.
+Line 238: The property name _ExtentX in BtnSector is invalid.
+Line 239: The property name _ExtentY in BtnSector is invalid.
+Line 240: The property name TX in BtnSector is invalid.
+Line 241: The property name ENAB in BtnSector is invalid.
+Line 251: The property name FOCUSR in BtnSector is invalid.
+Line 252: The property name MPTR in BtnSector is invalid.
+Line 253: The property name MICON in BtnSector is invalid.
+Line 254: The property name BC in BtnSector is invalid.
+Line 255: The property name FC in BtnSector is invalid.

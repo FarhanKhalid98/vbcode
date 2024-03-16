@@ -1,0 +1,9 @@
+VBGROUP 5.0
+StartupProject=SuperSoftv1.vbp
+Project=..\Registry\Registry.vbp
+Project=..\Security\UserSecurityLib.vbp
+Project=..\Data Entry Forms\Other Transections\Project\OtherTransection.vbp
+Project=..\Reports\Stock Reports\Project\StockReports.vbp
+Project=..\Reports\Account Reports\Project\AccountReports.vbp
+Project=..\Accounts\Project\AccountForms.vbp
+Project=..\Reports\Sale Reports\Project\SaleReports.vbp

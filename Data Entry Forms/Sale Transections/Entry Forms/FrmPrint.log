@@ -1,0 +1,14 @@
+Line 43: Class SITextBox.Txt of control TxtCashCustomer was not a loaded control class.
+Line 64: Class SITextBox.Txt of control TxtCashReceivedCash was not a loaded control class.
+Line 207: Class JeweledBut.JeweledButton of control BtnCancel was not a loaded control class.
+Line 232: Class JeweledBut.JeweledButton of control BtnOk was not a loaded control class.
+Line 285: Class SITextBox.Txt of control TxtBankMachineID was not a loaded control class.
+Line 308: Class SITextBox.Txt of control TxtBankMachineName was not a loaded control class.
+Line 330: Class JeweledBut.JeweledButton of control BtnBankMachine was not a loaded control class.
+Line 357: Class SITextBox.Txt of control TxtBankCustomer was not a loaded control class.
+Line 378: Class SITextBox.Txt of control TxtInvoiceNo was not a loaded control class.
+Line 398: Class SITextBox.Txt of control TxtCashReceivedBank was not a loaded control class.
+Line 557: Class SITextBox.Txt of control TxtCustomerID was not a loaded control class.
+Line 579: Class SITextBox.Txt of control TxtCustomerName was not a loaded control class.
+Line 601: Class JeweledBut.JeweledButton of control BtnCustomer was not a loaded control class.
+Line 628: Class SITextBox.Txt of control TxtCashReceivedCredit was not a loaded control class.

@@ -1,0 +1,65 @@
+Line 20: Class JeweledBut.JeweledButton of control BtnClose was not a loaded control class.
+Line 46: Class JeweledBut.JeweledButton of control BtnPreview was not a loaded control class.
+Line 72: Class JeweledBut.JeweledButton of control BtnPrint was not a loaded control class.
+Line 98: Class SITextBox.Txt of control TxtEmpID was not a loaded control class.
+Line 120: Class SITextBox.Txt of control TxtEmpName was not a loaded control class.
+Line 142: Class JeweledBut.JeweledButton of control BtnEmployee was not a loaded control class.
+Line 168: Class MSComCtl2.DTPicker of control DtpFrom was not a loaded control class.
+Line 181: Class MSComCtl2.DTPicker of control DtpTo was not a loaded control class.
+Line 27: The property name _ExtentX in BtnClose is invalid.
+Line 28: The property name _ExtentY in BtnClose is invalid.
+Line 29: The property name TX in BtnClose is invalid.
+Line 30: The property name ENAB in BtnClose is invalid.
+Line 40: The property name FOCUSR in BtnClose is invalid.
+Line 41: The property name MPTR in BtnClose is invalid.
+Line 42: The property name MICON in BtnClose is invalid.
+Line 43: The property name BC in BtnClose is invalid.
+Line 44: The property name FC in BtnClose is invalid.
+Line 53: The property name _ExtentX in BtnPreview is invalid.
+Line 54: The property name _ExtentY in BtnPreview is invalid.
+Line 55: The property name TX in BtnPreview is invalid.
+Line 56: The property name ENAB in BtnPreview is invalid.
+Line 66: The property name FOCUSR in BtnPreview is invalid.
+Line 67: The property name MPTR in BtnPreview is invalid.
+Line 68: The property name MICON in BtnPreview is invalid.
+Line 69: The property name BC in BtnPreview is invalid.
+Line 70: The property name FC in BtnPreview is invalid.
+Line 79: The property name _ExtentX in BtnPrint is invalid.
+Line 80: The property name _ExtentY in BtnPrint is invalid.
+Line 81: The property name TX in BtnPrint is invalid.
+Line 82: The property name ENAB in BtnPrint is invalid.
+Line 92: The property name FOCUSR in BtnPrint is invalid.
+Line 93: The property name MPTR in BtnPrint is invalid.
+Line 94: The property name MICON in BtnPrint is invalid.
+Line 95: The property name BC in BtnPrint is invalid.
+Line 96: The property name FC in BtnPrint is invalid.
+Line 104: The property name _ExtentX in TxtEmpID is invalid.
+Line 105: The property name _ExtentY in TxtEmpID is invalid.
+Line 107: The property name MaxLength in TxtEmpID is invalid.
+Line 117: The property name Masked in TxtEmpID is invalid.
+Line 118: The property name IntegralPoint in TxtEmpID is invalid.
+Line 126: The property name _ExtentX in TxtEmpName is invalid.
+Line 127: The property name _ExtentY in TxtEmpName is invalid.
+Line 130: The property name MaxLength in TxtEmpName is invalid.
+Line 140: The property name Masked in TxtEmpName is invalid.
+Line 149: The property name _ExtentX in BtnEmployee is invalid.
+Line 150: The property name _ExtentY in BtnEmployee is invalid.
+Line 151: The property name TX in BtnEmployee is invalid.
+Line 152: The property name ENAB in BtnEmployee is invalid.
+Line 162: The property name FOCUSR in BtnEmployee is invalid.
+Line 163: The property name MPTR in BtnEmployee is invalid.
+Line 164: The property name MICON in BtnEmployee is invalid.
+Line 165: The property name BC in BtnEmployee is invalid.
+Line 166: The property name FC in BtnEmployee is invalid.
+Line 174: The property name _ExtentX in DtpFrom is invalid.
+Line 175: The property name _ExtentY in DtpFrom is invalid.
+Line 176: The property name _Version in DtpFrom is invalid.
+Line 177: The property name CustomFormat in DtpFrom is invalid.
+Line 178: The property name Format in DtpFrom is invalid.
+Line 179: The property name CurrentDate in DtpFrom is invalid.
+Line 187: The property name _ExtentX in DtpTo is invalid.
+Line 188: The property name _ExtentY in DtpTo is invalid.
+Line 189: The property name _Version in DtpTo is invalid.
+Line 190: The property name CustomFormat in DtpTo is invalid.
+Line 191: The property name Format in DtpTo is invalid.
+Line 192: The property name CurrentDate in DtpTo is invalid.

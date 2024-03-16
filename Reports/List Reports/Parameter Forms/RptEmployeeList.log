@@ -1,0 +1,51 @@
+Line 27: Class JeweledBut.JeweledButton of control BtnClose was not a loaded control class.
+Line 53: Class JeweledBut.JeweledButton of control BtnPreview was not a loaded control class.
+Line 78: Class JeweledBut.JeweledButton of control BtnPrint was not a loaded control class.
+Line 104: Class SITextBox.Txt of control TxtEmployeeID was not a loaded control class.
+Line 149: Class JeweledBut.JeweledButton of control BtnEmployee was not a loaded control class.
+Line 175: Class SITextBox.Txt of control TxtEmployeeName was not a loaded control class.
+Line 34: The property name _ExtentX in BtnClose is invalid.
+Line 35: The property name _ExtentY in BtnClose is invalid.
+Line 36: The property name TX in BtnClose is invalid.
+Line 37: The property name ENAB in BtnClose is invalid.
+Line 47: The property name FOCUSR in BtnClose is invalid.
+Line 48: The property name MPTR in BtnClose is invalid.
+Line 49: The property name MICON in BtnClose is invalid.
+Line 50: The property name BC in BtnClose is invalid.
+Line 51: The property name FC in BtnClose is invalid.
+Line 59: The property name _ExtentX in BtnPreview is invalid.
+Line 60: The property name _ExtentY in BtnPreview is invalid.
+Line 61: The property name TX in BtnPreview is invalid.
+Line 62: The property name ENAB in BtnPreview is invalid.
+Line 72: The property name FOCUSR in BtnPreview is invalid.
+Line 73: The property name MPTR in BtnPreview is invalid.
+Line 74: The property name MICON in BtnPreview is invalid.
+Line 75: The property name BC in BtnPreview is invalid.
+Line 76: The property name FC in BtnPreview is invalid.
+Line 85: The property name _ExtentX in BtnPrint is invalid.
+Line 86: The property name _ExtentY in BtnPrint is invalid.
+Line 87: The property name TX in BtnPrint is invalid.
+Line 88: The property name ENAB in BtnPrint is invalid.
+Line 98: The property name FOCUSR in BtnPrint is invalid.
+Line 99: The property name MPTR in BtnPrint is invalid.
+Line 100: The property name MICON in BtnPrint is invalid.
+Line 101: The property name BC in BtnPrint is invalid.
+Line 102: The property name FC in BtnPrint is invalid.
+Line 110: The property name _ExtentX in TxtEmployeeID is invalid.
+Line 111: The property name _ExtentY in TxtEmployeeID is invalid.
+Line 113: The property name MaxLength in TxtEmployeeID is invalid.
+Line 123: The property name Masked in TxtEmployeeID is invalid.
+Line 124: The property name IntegralPoint in TxtEmployeeID is invalid.
+Line 125: The property name Mandatory in TxtEmployeeID is invalid.
+Line 156: The property name _ExtentX in BtnEmployee is invalid.
+Line 157: The property name _ExtentY in BtnEmployee is invalid.
+Line 158: The property name TX in BtnEmployee is invalid.
+Line 159: The property name ENAB in BtnEmployee is invalid.
+Line 169: The property name FOCUSR in BtnEmployee is invalid.
+Line 170: The property name MPTR in BtnEmployee is invalid.
+Line 171: The property name MICON in BtnEmployee is invalid.
+Line 172: The property name BC in BtnEmployee is invalid.
+Line 173: The property name FC in BtnEmployee is invalid.
+Line 181: The property name _ExtentX in TxtEmployeeName is invalid.
+Line 182: The property name _ExtentY in TxtEmployeeName is invalid.
+Line 194: The property name Masked in TxtEmployeeName is invalid.

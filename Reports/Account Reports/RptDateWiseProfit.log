@@ -1,0 +1,60 @@
+Line 22: Class JeweledBut.JeweledButton of control BtnClose was not a loaded control class.
+Line 48: Class JeweledBut.JeweledButton of control BtnPreview was not a loaded control class.
+Line 74: Class JeweledBut.JeweledButton of control BtnPrint was not a loaded control class.
+Line 100: Class SSCalendarWidgets_A.SSDateCombo of control DtpFrom was not a loaded control class.
+Line 130: Class SSCalendarWidgets_A.SSDateCombo of control DtpTo was not a loaded control class.
+Line 29: The property name _ExtentX in BtnClose is invalid.
+Line 30: The property name _ExtentY in BtnClose is invalid.
+Line 31: The property name TX in BtnClose is invalid.
+Line 32: The property name ENAB in BtnClose is invalid.
+Line 42: The property name FOCUSR in BtnClose is invalid.
+Line 43: The property name MPTR in BtnClose is invalid.
+Line 44: The property name MICON in BtnClose is invalid.
+Line 45: The property name BC in BtnClose is invalid.
+Line 46: The property name FC in BtnClose is invalid.
+Line 55: The property name _ExtentX in BtnPreview is invalid.
+Line 56: The property name _ExtentY in BtnPreview is invalid.
+Line 57: The property name TX in BtnPreview is invalid.
+Line 58: The property name ENAB in BtnPreview is invalid.
+Line 68: The property name FOCUSR in BtnPreview is invalid.
+Line 69: The property name MPTR in BtnPreview is invalid.
+Line 70: The property name MICON in BtnPreview is invalid.
+Line 71: The property name BC in BtnPreview is invalid.
+Line 72: The property name FC in BtnPreview is invalid.
+Line 81: The property name _ExtentX in BtnPrint is invalid.
+Line 82: The property name _ExtentY in BtnPrint is invalid.
+Line 83: The property name TX in BtnPrint is invalid.
+Line 84: The property name ENAB in BtnPrint is invalid.
+Line 94: The property name FOCUSR in BtnPrint is invalid.
+Line 95: The property name MPTR in BtnPrint is invalid.
+Line 96: The property name MICON in BtnPrint is invalid.
+Line 97: The property name BC in BtnPrint is invalid.
+Line 98: The property name FC in BtnPrint is invalid.
+Line 106: The property name _Version in DtpFrom is invalid.
+Line 107: The property name _ExtentX in DtpFrom is invalid.
+Line 108: The property name _ExtentY in DtpFrom is invalid.
+Line 109: The property name _StockProps in DtpFrom is invalid.
+Line 119: The property name DropDownFont in DtpFrom is invalid.
+Line 120: The property name DateSeparator in DtpFrom is invalid.
+Line 121: The property name Format in DtpFrom is invalid.
+Line 122: The property name BackColorSelected in DtpFrom is invalid.
+Line 123: The property name BevelColorFace in DtpFrom is invalid.
+Line 124: The property name DividerStyle in DtpFrom is invalid.
+Line 125: The property name ForeColorSelected in DtpFrom is invalid.
+Line 126: The property name BevelType in DtpFrom is invalid.
+Line 127: The property name SpinButton in DtpFrom is invalid.
+Line 128: The property name Mask in DtpFrom is invalid.
+Line 136: The property name _Version in DtpTo is invalid.
+Line 137: The property name _ExtentX in DtpTo is invalid.
+Line 138: The property name _ExtentY in DtpTo is invalid.
+Line 139: The property name _StockProps in DtpTo is invalid.
+Line 149: The property name DropDownFont in DtpTo is invalid.
+Line 150: The property name DateSeparator in DtpTo is invalid.
+Line 151: The property name Format in DtpTo is invalid.
+Line 152: The property name BackColorSelected in DtpTo is invalid.
+Line 153: The property name BevelColorFace in DtpTo is invalid.
+Line 154: The property name DividerStyle in DtpTo is invalid.
+Line 155: The property name ForeColorSelected in DtpTo is invalid.
+Line 156: The property name BevelType in DtpTo is invalid.
+Line 157: The property name SpinButton in DtpTo is invalid.
+Line 158: The property name Mask in DtpTo is invalid.

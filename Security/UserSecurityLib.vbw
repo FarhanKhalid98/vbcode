@@ -1,0 +1,17 @@
+ClsUserSecurity = 75, 75, 842, 438, C
+MdlDeclaration = 0, 0, 0, 0, C
+DefChangePassword = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DefAssignTasks = 75, 75, 817, 500, C, 0, 0, 0, 0, C
+DefUsers = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmUserDefaultSettings = 0, 0, 0, 0, C, 50, 50, 866, 475, C
+SchUserSettings = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+SchStore = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+SchOrganization = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmActivityLogBin = 25, 25, 792, 388, C, 0, 0, 0, 0, C
+GetComputerName = 0, 0, 0, 0, C
+frmLogin = 200, 200, 695, 625, C, 175, 175, 670, 600, C
+Common = 0, 0, 0, 0, C
+TableFields = 0, 0, 0, 0, C
+FrmActivityLog = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmRecycleBin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmRecycleBinNew = 0, 0, 0, 0, C, 0, 0, 0, 0, C

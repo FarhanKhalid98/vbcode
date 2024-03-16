@@ -1,0 +1,14 @@
+1- SPAccountsBalancesNew
+2- 
+	SPPLStatementValueOrgMoving (Moving Price)
+	OR
+	SPProductPurchase (Last Purchase Price)
+	OR 
+	SPAverageCost (Weighted Price)
+
+3- 
+	SPPLStatementValueOrgMoving 
+	OR
+	SPPLStatementValueOrgLast OR SPPLStatementSaleCostOrgLast
+	OR
+	SPPLStatementValueOrg OR SPPLStatementSaleCostOrg

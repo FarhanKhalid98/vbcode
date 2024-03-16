@@ -1,0 +1,14 @@
+Line 152: Class JeweledBut.JeweledButton of control BtnSelect was not a loaded control class.
+Line 177: Class JeweledBut.JeweledButton of control BtnClear was not a loaded control class.
+Line 202: Class JeweledBut.JeweledButton of control BtnClose was not a loaded control class.
+Line 227: Class JeweledBut.JeweledButton of control BtnFilter was not a loaded control class.
+Line 253: Class JeweledBut.JeweledButton of control BtnApply was not a loaded control class.
+Line 279: Class SITextBox.Txt of control TxtQtyLoose was not a loaded control class.
+Line 304: Class SSDataWidgets_B_OLEDB.SSOleDBGrid of control Grid was not a loaded control class.
+Line 496: Class JeweledBut.JeweledButton of control BtnFromProduct was not a loaded control class.
+Line 525: Class JeweledBut.JeweledButton of control BtnToProduct was not a loaded control class.
+Line 554: Class SITextBox.Txt of control TxtPurPrice was not a loaded control class.
+Line 579: Class SITextBox.Txt of control TxtDiscPer was not a loaded control class.
+Line 604: Class JeweledBut.JeweledButton of control BtnVender was not a loaded control class.
+Line 633: Class SITextBox.Txt of control TxtVenderName was not a loaded control class.
+Line 655: Class SITextBox.Txt of control TxtVenderID was not a loaded control class.

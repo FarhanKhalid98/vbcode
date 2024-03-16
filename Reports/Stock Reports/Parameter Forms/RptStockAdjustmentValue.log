@@ -1,0 +1,153 @@
+Line 29: Class JeweledBut.JeweledButton of control BtnClose was not a loaded control class.
+Line 55: Class JeweledBut.JeweledButton of control BtnPreview was not a loaded control class.
+Line 80: Class JeweledBut.JeweledButton of control BtnPrint was not a loaded control class.
+Line 105: Class SITextBox.Txt of control TxtProductID was not a loaded control class.
+Line 127: Class JeweledBut.JeweledButton of control BtnProduct was not a loaded control class.
+Line 153: Class SITextBox.Txt of control TxtProductName was not a loaded control class.
+Line 174: Class JeweledBut.JeweledButton of control BtnGroup was not a loaded control class.
+Line 202: Class SITextBox.Txt of control TxtGroupID was not a loaded control class.
+Line 223: Class SITextBox.Txt of control TxtGroupName was not a loaded control class.
+Line 244: Class JeweledBut.JeweledButton of control BtnSubGroup was not a loaded control class.
+Line 272: Class SITextBox.Txt of control TxtSubGroupID was not a loaded control class.
+Line 293: Class SITextBox.Txt of control TxtSubGroupName was not a loaded control class.
+Line 314: Class JeweledBut.JeweledButton of control BtnCompany was not a loaded control class.
+Line 342: Class SITextBox.Txt of control TxtCompanyID was not a loaded control class.
+Line 363: Class SITextBox.Txt of control TxtCompanyName was not a loaded control class.
+Line 384: Class SSCalendarWidgets_A.SSDateCombo of control DtpFrom was not a loaded control class.
+Line 414: Class SSCalendarWidgets_A.SSDateCombo of control DtpTo was not a loaded control class.
+Line 444: Class JeweledBut.JeweledButton of control BtnStore was not a loaded control class.
+Line 472: Class SITextBox.Txt of control TxtStoreID was not a loaded control class.
+Line 494: Class SITextBox.Txt of control TxtStoreName was not a loaded control class.
+Line 36: The property name _ExtentX in BtnClose is invalid.
+Line 37: The property name _ExtentY in BtnClose is invalid.
+Line 38: The property name TX in BtnClose is invalid.
+Line 39: The property name ENAB in BtnClose is invalid.
+Line 49: The property name FOCUSR in BtnClose is invalid.
+Line 50: The property name MPTR in BtnClose is invalid.
+Line 51: The property name MICON in BtnClose is invalid.
+Line 52: The property name BC in BtnClose is invalid.
+Line 53: The property name FC in BtnClose is invalid.
+Line 61: The property name _ExtentX in BtnPreview is invalid.
+Line 62: The property name _ExtentY in BtnPreview is invalid.
+Line 63: The property name TX in BtnPreview is invalid.
+Line 64: The property name ENAB in BtnPreview is invalid.
+Line 74: The property name FOCUSR in BtnPreview is invalid.
+Line 75: The property name MPTR in BtnPreview is invalid.
+Line 76: The property name MICON in BtnPreview is invalid.
+Line 77: The property name BC in BtnPreview is invalid.
+Line 78: The property name FC in BtnPreview is invalid.
+Line 86: The property name _ExtentX in BtnPrint is invalid.
+Line 87: The property name _ExtentY in BtnPrint is invalid.
+Line 88: The property name TX in BtnPrint is invalid.
+Line 89: The property name ENAB in BtnPrint is invalid.
+Line 99: The property name FOCUSR in BtnPrint is invalid.
+Line 100: The property name MPTR in BtnPrint is invalid.
+Line 101: The property name MICON in BtnPrint is invalid.
+Line 102: The property name BC in BtnPrint is invalid.
+Line 103: The property name FC in BtnPrint is invalid.
+Line 111: The property name _ExtentX in TxtProductID is invalid.
+Line 112: The property name _ExtentY in TxtProductID is invalid.
+Line 114: The property name MaxLength in TxtProductID is invalid.
+Line 124: The property name Masked in TxtProductID is invalid.
+Line 125: The property name IntegralPoint in TxtProductID is invalid.
+Line 134: The property name _ExtentX in BtnProduct is invalid.
+Line 135: The property name _ExtentY in BtnProduct is invalid.
+Line 136: The property name TX in BtnProduct is invalid.
+Line 137: The property name ENAB in BtnProduct is invalid.
+Line 147: The property name FOCUSR in BtnProduct is invalid.
+Line 148: The property name MPTR in BtnProduct is invalid.
+Line 149: The property name MICON in BtnProduct is invalid.
+Line 150: The property name BC in BtnProduct is invalid.
+Line 151: The property name FC in BtnProduct is invalid.
+Line 159: The property name _ExtentX in TxtProductName is invalid.
+Line 160: The property name _ExtentY in TxtProductName is invalid.
+Line 172: The property name Masked in TxtProductName is invalid.
+Line 183: The property name _ExtentX in BtnGroup is invalid.
+Line 184: The property name _ExtentY in BtnGroup is invalid.
+Line 185: The property name TX in BtnGroup is invalid.
+Line 186: The property name ENAB in BtnGroup is invalid.
+Line 196: The property name FOCUSR in BtnGroup is invalid.
+Line 197: The property name MPTR in BtnGroup is invalid.
+Line 198: The property name MICON in BtnGroup is invalid.
+Line 199: The property name BC in BtnGroup is invalid.
+Line 200: The property name FC in BtnGroup is invalid.
+Line 208: The property name _ExtentX in TxtGroupID is invalid.
+Line 209: The property name _ExtentY in TxtGroupID is invalid.
+Line 211: The property name MaxLength in TxtGroupID is invalid.
+Line 221: The property name IntegralPoint in TxtGroupID is invalid.
+Line 230: The property name _ExtentX in TxtGroupName is invalid.
+Line 231: The property name _ExtentY in TxtGroupName is invalid.
+Line 253: The property name _ExtentX in BtnSubGroup is invalid.
+Line 254: The property name _ExtentY in BtnSubGroup is invalid.
+Line 255: The property name TX in BtnSubGroup is invalid.
+Line 256: The property name ENAB in BtnSubGroup is invalid.
+Line 266: The property name FOCUSR in BtnSubGroup is invalid.
+Line 267: The property name MPTR in BtnSubGroup is invalid.
+Line 268: The property name MICON in BtnSubGroup is invalid.
+Line 269: The property name BC in BtnSubGroup is invalid.
+Line 270: The property name FC in BtnSubGroup is invalid.
+Line 278: The property name _ExtentX in TxtSubGroupID is invalid.
+Line 279: The property name _ExtentY in TxtSubGroupID is invalid.
+Line 281: The property name MaxLength in TxtSubGroupID is invalid.
+Line 291: The property name IntegralPoint in TxtSubGroupID is invalid.
+Line 300: The property name _ExtentX in TxtSubGroupName is invalid.
+Line 301: The property name _ExtentY in TxtSubGroupName is invalid.
+Line 323: The property name _ExtentX in BtnCompany is invalid.
+Line 324: The property name _ExtentY in BtnCompany is invalid.
+Line 325: The property name TX in BtnCompany is invalid.
+Line 326: The property name ENAB in BtnCompany is invalid.
+Line 336: The property name FOCUSR in BtnCompany is invalid.
+Line 337: The property name MPTR in BtnCompany is invalid.
+Line 338: The property name MICON in BtnCompany is invalid.
+Line 339: The property name BC in BtnCompany is invalid.
+Line 340: The property name FC in BtnCompany is invalid.
+Line 348: The property name _ExtentX in TxtCompanyID is invalid.
+Line 349: The property name _ExtentY in TxtCompanyID is invalid.
+Line 351: The property name MaxLength in TxtCompanyID is invalid.
+Line 361: The property name IntegralPoint in TxtCompanyID is invalid.
+Line 370: The property name _ExtentX in TxtCompanyName is invalid.
+Line 371: The property name _ExtentY in TxtCompanyName is invalid.
+Line 390: The property name _Version in DtpFrom is invalid.
+Line 391: The property name _ExtentX in DtpFrom is invalid.
+Line 392: The property name _ExtentY in DtpFrom is invalid.
+Line 393: The property name _StockProps in DtpFrom is invalid.
+Line 403: The property name DropDownFont in DtpFrom is invalid.
+Line 404: The property name DateSeparator in DtpFrom is invalid.
+Line 405: The property name Format in DtpFrom is invalid.
+Line 406: The property name BackColorSelected in DtpFrom is invalid.
+Line 407: The property name BevelColorFace in DtpFrom is invalid.
+Line 408: The property name DividerStyle in DtpFrom is invalid.
+Line 409: The property name ForeColorSelected in DtpFrom is invalid.
+Line 410: The property name BevelType in DtpFrom is invalid.
+Line 411: The property name SpinButton in DtpFrom is invalid.
+Line 412: The property name Mask in DtpFrom is invalid.
+Line 420: The property name _Version in DtpTo is invalid.
+Line 421: The property name _ExtentX in DtpTo is invalid.
+Line 422: The property name _ExtentY in DtpTo is invalid.
+Line 423: The property name _StockProps in DtpTo is invalid.
+Line 433: The property name DropDownFont in DtpTo is invalid.
+Line 434: The property name DateSeparator in DtpTo is invalid.
+Line 435: The property name Format in DtpTo is invalid.
+Line 436: The property name BackColorSelected in DtpTo is invalid.
+Line 437: The property name BevelColorFace in DtpTo is invalid.
+Line 438: The property name DividerStyle in DtpTo is invalid.
+Line 439: The property name ForeColorSelected in DtpTo is invalid.
+Line 440: The property name BevelType in DtpTo is invalid.
+Line 441: The property name SpinButton in DtpTo is invalid.
+Line 442: The property name Mask in DtpTo is invalid.
+Line 453: The property name _ExtentX in BtnStore is invalid.
+Line 454: The property name _ExtentY in BtnStore is invalid.
+Line 455: The property name TX in BtnStore is invalid.
+Line 456: The property name ENAB in BtnStore is invalid.
+Line 466: The property name FOCUSR in BtnStore is invalid.
+Line 467: The property name MPTR in BtnStore is invalid.
+Line 468: The property name MICON in BtnStore is invalid.
+Line 469: The property name BC in BtnStore is invalid.
+Line 470: The property name FC in BtnStore is invalid.
+Line 478: The property name _ExtentX in TxtStoreID is invalid.
+Line 479: The property name _ExtentY in TxtStoreID is invalid.
+Line 481: The property name MaxLength in TxtStoreID is invalid.
+Line 491: The property name Masked in TxtStoreID is invalid.
+Line 492: The property name IntegralPoint in TxtStoreID is invalid.
+Line 501: The property name _ExtentX in TxtStoreName is invalid.
+Line 502: The property name _ExtentY in TxtStoreName is invalid.

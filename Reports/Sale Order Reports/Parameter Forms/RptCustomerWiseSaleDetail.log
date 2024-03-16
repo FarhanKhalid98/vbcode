@@ -1,0 +1,8 @@
+Line 23: Class JeweledBut.JeweledButton of control BtnClose was not a loaded control class.
+Line 49: Class JeweledBut.JeweledButton of control BtnPreview was not a loaded control class.
+Line 75: Class JeweledBut.JeweledButton of control BtnPrint was not a loaded control class.
+Line 101: Class SITextBox.Txt of control TxtCustomerID was not a loaded control class.
+Line 123: Class SITextBox.Txt of control TxtCustomerName was not a loaded control class.
+Line 145: Class JeweledBut.JeweledButton of control BtnCustomer was not a loaded control class.
+Line 231: Class SITextBox.Txt of control TxtFromBillID was not a loaded control class.
+Line 253: Class SITextBox.Txt of control TxtToBillID was not a loaded control class.

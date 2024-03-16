@@ -1,0 +1,14 @@
+Line 45: Class MSComDlg.CommonDialog of control CD1 was not a loaded control class.
+Line 52: Class MSComCtl2.DTPicker of control dtpStartDate was not a loaded control class.
+Line 75: Class MSComCtl2.DTPicker of control DTPHHmm was not a loaded control class.
+Line 101: Class MSComCtl2.DTPicker of control DTPStartingTime was not a loaded control class.
+Line 116: Class SITextBox.Txt of control TxtJobName was not a loaded control class.
+Line 138: Class MSComCtl2.DTPicker of control DTPEndingTime was not a loaded control class.
+Line 153: Class JeweledBut.JeweledButton of control btnClose was not a loaded control class.
+Line 180: Class JeweledBut.JeweledButton of control btnSave was not a loaded control class.
+Line 207: Class JeweledBut.JeweledButton of control btnOpen was not a loaded control class.
+Line 234: Class JeweledBut.JeweledButton of control btndelete was not a loaded control class.
+Line 261: Class JeweledBut.JeweledButton of control btnBackup was not a loaded control class.
+Line 288: Class JeweledBut.JeweledButton of control btnClear was not a loaded control class.
+Line 315: Class SITextBox.Txt of control TxtBackupName was not a loaded control class.
+Line 337: Class JeweledBut.JeweledButton of control BtnSaveDefault was not a loaded control class.

@@ -1,0 +1,22 @@
+Line 20: Class JeweledBut.JeweledButton of control CmdLogin was not a loaded control class.
+Line 66: Class JeweledBut.JeweledButton of control CmdCancel was not a loaded control class.
+Line 21: The property name Default in CmdLogin is invalid.
+Line 27: The property name _ExtentX in CmdLogin is invalid.
+Line 28: The property name _ExtentY in CmdLogin is invalid.
+Line 29: The property name TX in CmdLogin is invalid.
+Line 30: The property name ENAB in CmdLogin is invalid.
+Line 40: The property name FOCUSR in CmdLogin is invalid.
+Line 41: The property name MPTR in CmdLogin is invalid.
+Line 42: The property name MICON in CmdLogin is invalid.
+Line 43: The property name BC in CmdLogin is invalid.
+Line 44: The property name FC in CmdLogin is invalid.
+Line 67: The property name Cancel in CmdCancel is invalid.
+Line 73: The property name _ExtentX in CmdCancel is invalid.
+Line 74: The property name _ExtentY in CmdCancel is invalid.
+Line 75: The property name TX in CmdCancel is invalid.
+Line 76: The property name ENAB in CmdCancel is invalid.
+Line 86: The property name FOCUSR in CmdCancel is invalid.
+Line 87: The property name MPTR in CmdCancel is invalid.
+Line 88: The property name MICON in CmdCancel is invalid.
+Line 89: The property name BC in CmdCancel is invalid.
+Line 90: The property name FC in CmdCancel is invalid.

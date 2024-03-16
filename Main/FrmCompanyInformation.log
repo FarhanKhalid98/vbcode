@@ -1,0 +1,20 @@
+Line 78: Class JeweledBut.JeweledButton of control BtnSave was not a loaded control class.
+Line 103: Class JeweledBut.JeweledButton of control BtnClose was not a loaded control class.
+Line 84: The property name _ExtentX in BtnSave is invalid.
+Line 85: The property name _ExtentY in BtnSave is invalid.
+Line 86: The property name TX in BtnSave is invalid.
+Line 87: The property name ENAB in BtnSave is invalid.
+Line 97: The property name FOCUSR in BtnSave is invalid.
+Line 98: The property name MPTR in BtnSave is invalid.
+Line 99: The property name MICON in BtnSave is invalid.
+Line 100: The property name BC in BtnSave is invalid.
+Line 101: The property name FC in BtnSave is invalid.
+Line 109: The property name _ExtentX in BtnClose is invalid.
+Line 110: The property name _ExtentY in BtnClose is invalid.
+Line 111: The property name TX in BtnClose is invalid.
+Line 112: The property name ENAB in BtnClose is invalid.
+Line 122: The property name FOCUSR in BtnClose is invalid.
+Line 123: The property name MPTR in BtnClose is invalid.
+Line 124: The property name MICON in BtnClose is invalid.
+Line 125: The property name BC in BtnClose is invalid.
+Line 126: The property name FC in BtnClose is invalid.
